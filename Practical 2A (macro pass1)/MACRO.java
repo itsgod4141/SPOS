@@ -34,8 +34,8 @@ class MACRO
 		String s,prev="",substring;
 		try
 		{
-			BufferedReader inp = new BufferedReader(new FileReader("F://input.txt"));  //file not present 
-			File op = new File("F://pass1_output.txt");
+			BufferedReader inp = new BufferedReader(new FileReader("E:\\temp\\input.txt")); 
+			File op = new File("E:\\temp\\macro_pass1_output.txt");
 			
 			if (!op.exists())
 			{
