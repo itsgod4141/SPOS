@@ -1,0 +1,5 @@
+ Problem Statement: Write a JAVA program (using oop features) to implement following
+1. FCFS
+2. SJF(Preemptive)
+3. Priority(Non- Preemptive)
+4. Round Robin(Preemptive)
